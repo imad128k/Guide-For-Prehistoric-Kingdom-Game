@@ -1,4 +1,4 @@
-  {
+   {
 
   "AllAdsId" : {
       
@@ -6,10 +6,9 @@
     "AdmobBannerId" : "",
 	"AdmobInterstitialId" : "",
 	"AdmobNativeId" : "",
-	"FacebookbBannerId" : "",
-	"FacebookInterstitialId" : "",
-	"FacebookNativeId"   :  "",
-	"Yodo1AdvertAppKey" : "nXu1suLJOpI"
+	"FacebookbBannerId" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"FacebookInterstitialId" : "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"FacebookNativeId"   :  "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+	"Yodo1AdvertAppKey" : ""
   }
 }
-
